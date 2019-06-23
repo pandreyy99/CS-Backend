@@ -19,9 +19,9 @@ You will need php and composer installed on your system.
 
 You can use the following routes:
 
-GET /products
-GET /product/{id}
-GET /products/{offset}/{limit}
-POST /product
-PUT /product/{id}
-DELETE /product/{id}
+GET /products <br/>
+GET /product/{id} <br/>
+GET /products/{offset}/{limit} <br/>
+POST /product <br/>
+PUT /product/{id} <br/>
+DELETE /product/{id} <br/>
